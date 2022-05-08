@@ -1,0 +1,12 @@
+body{ 
+    text-align: center;
+    background-image: url("cartoon.jpeg");
+    background-repeat: none;
+    font-family: 'Kanit', sans-serif;
+}
+
+input, button { 
+    border-radius: 8px;
+    font-family: 'Kanit', sans-serif;
+
+}
